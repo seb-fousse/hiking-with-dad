@@ -12,14 +12,14 @@
     "react-dom": "^17.0.1",
     "react-scripts": "4.0.2",
     "react-simple-chatbot": "0.6.1",
-    "styled-components": "^7.5.3",
+    "styled-components": "7.5.3",
     "web-vitals": "^1.1.0"
   },
   "scripts": {
     "start": "react-scripts start",
     "build-bot": "react-scripts build",
     "test": "react-scripts test",
-    "eject": "react-scripts eject"
+    "eject": "react-scripts eject",
   },
   "eslintConfig": {
     "extends": [
