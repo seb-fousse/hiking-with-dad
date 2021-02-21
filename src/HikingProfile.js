@@ -80,7 +80,6 @@ class HikingProfile {
             "?&format=json&filter=daynight&limit=14&fields=periods.dateTimeISO,periods.weather,",
             "periods.maxFeelslikeC,periods.pop,periods.minFeelslikeC,periods.windSpeedMaxKPH",
             "&client_id=CLIENT_ID&client_secret=CLIENT_SECRET"].join('');
-        //url = "./StaticWeather.json"; //Testing with local json
         var targetDate = this.date+"T07:00";
 
         fetch(url, {
