@@ -1,6 +1,6 @@
 {
-  "name": "hiking-with-dad",
   "homepage": "https://seb-fousse.github.io/hiking-with-dad",
+  "name": "hiking-with-dad",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
